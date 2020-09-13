@@ -4,12 +4,21 @@
 `# ALL COMMANDS `
 
 ❤ `pkg update `
+
 ❤ `pkg upgrade`
+
 ❤ `pkg install python2`
+
 ❤ `pkg install git`
+
 ❤ `pip2 install requests mechanize
+
 🔓 `git clone https://github.com/HuXaifa-Xo/HBI`
+
 ❤ `cd HBI`
+
 💜 `python2 Huzaifa.py`
+
 💔 `USERNAME`  `Huzaifa`
+
 💔 `PASSWORD`  `Baloch`

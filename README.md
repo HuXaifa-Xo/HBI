@@ -1,5 +1,5 @@
 # HBI
-
+![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/Hbi.gif)
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/Screenshot_20200913-131634.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://facebook.com/HuXaifa-Xo)

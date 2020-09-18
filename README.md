@@ -1,5 +1,5 @@
 # HBI
-![alt-text] ("center")
+<p align="center">
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/Hbi.gif)
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/1600397566560.gif)
 

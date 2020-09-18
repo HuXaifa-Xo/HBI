@@ -1,7 +1,7 @@
 # HBI
 
 
-<img align="center">
+<gif align="center">
 
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/Hbi.gif)
 

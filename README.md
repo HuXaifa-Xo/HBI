@@ -1,9 +1,9 @@
 # HBI
 
-<p align="center">
+
 <p align="center">  
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/Hbi.gif)
-<p align="center">
+
 ![alt-text](https://github.com/HuXaifa-Xo/HBI/blob/Huzaifa/1600397566560.gif)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://facebook.com/HuXaifa-Xo)
